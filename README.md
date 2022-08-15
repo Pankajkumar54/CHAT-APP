@@ -1,6 +1,9 @@
 # Chat Application using PHP with MySQL & Ajax
 
 version: 1.0.0
+This is an online Chat Application which is based on web. A web
+chat is a system that allows users to communicate in real-time using easily
+accessible web interfaces .
 
 ## TECHNOLOGIES
 
